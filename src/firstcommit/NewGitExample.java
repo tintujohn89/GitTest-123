@@ -3,8 +3,9 @@ package firstcommit;
 public class NewGitExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+           System.out.println("firstgitcommit");
+           System.out.println("Second Commit");
 	}
 
 }
